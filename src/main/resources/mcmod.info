@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mm",
+  "name": "Minecraft Mod",
+  "description": "First mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["drh"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
